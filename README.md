@@ -1,2 +1,2 @@
 # ReactPrepaid
-This repository is for creating the react related work
+This is for creating a new react project
